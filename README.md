@@ -1,10 +1,10 @@
 # Map
 
-![war room](Assets/Map.png?raw=true "Map") *
+![war room](Assets/Map.png?raw=true "Map")
 
-*If the map and the terrain do not match, trust the terrain.
+If the map and the terrain do not match, trust the terrain.
 
-State-Backed Disinformation Operations
+## State-Backed Disinformation Operations
 
 | Country    |  Messages |
 |:-----------|----------:|
@@ -60,8 +60,32 @@ Then enter your email at the bottom of the page to access the archives.
 
 ---
 
-[Exxon Knew about Climate Change almost 40 years ago](https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago/) - investigation shows the oil company understood the science before it became a public issue and spent millions to promote misinformation.
+A study from the University of Oxford that found that 70 countries had disinformation campaigns: https://comprop.oii.ox.ac.uk/wp-content/uploads/sites/93/2019/09/CyberTroop-Report19.pdf
 
 ---
 
-A study from the University of Oxford that found that 70 countries had disinformation campaigns: https://comprop.oii.ox.ac.uk/wp-content/uploads/sites/93/2019/09/CyberTroop-Report19.pdf
+# States
+
+## China
+
+![war room](Assets/States/China.png?raw=true "China")
+
+## Ecuador
+
+![war room](Assets/States/Ecuador.png?raw=true "Ecuador")
+
+## Egypt & UAE
+
+![war room](Assets/States/Egypt%20%26%20UAE.png?raw=true "Egypt & UAE")
+
+## Iran
+
+![war room](Assets/States/Iran.png?raw=true "Iran")
+
+## Russia
+
+![war room](Assets/States/Russia.png?raw=true "Russia")
+
+## Venezuela
+
+![war room](Assets/States/Venezuela.png?raw=true "Venezuela")
