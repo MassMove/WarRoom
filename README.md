@@ -52,6 +52,28 @@ Then enter your email at the bottom of the page to access the archives.
 - https://medium.com/swlh/watch-six-decade-long-disinformation-operations-unfold-in-six-minutes-5f69a7e75fb3
 - https://www.stratcomcoe.org/ckriel-apavliuc-reverse-engineering-russian-internet-research-agency-tactics-through-network
 
+# Cyber Troops
+
+## High Capacity
+
+|Country|Status|Notes on Team Size, Training and Spending|
+|:-----------|:-----------|:------------|
+|China| Permanent |Team size estimates of 300,000-2,000,000 people working in local and regional offices|
+|Egypt| Permanent |–|
+|Iran |Permanent |6,000 USD spent on FB advertisements|
+|Israel| Permanent |Team size estimates of 400 people. Evidence of Formal Training. Multiple contracts valued at 778K USD and 100M USD.|
+|Myanmar| Permanent |Evidence of Formal Training in Russia|
+|Russia| Permanent |–|
+|Saudi Arabia| Permanent |Estimated costs of 150 Pounds for Twitter Hashtag Trends|
+|Syria |Permanent |Multiple Contracts valued at 4,000 USD|
+|United Arab Emirates| Permanent |Multiple Expenditures valued at over 10M USD|
+|United States| Permanent & Temporary |–|
+|Venezuela |Permanent |Team size estimates of multiple brigades of 500 people. Evidence of Formal Training|
+|Vietnam |Permanent & Temporary |Team size estimates of 10,000 people |
+
+>Source:
+>Cyber Troop Report - University of Oxford: https://comprop.oii.ox.ac.uk/wp-content/uploads/sites/93/2019/09/CyberTroop-Report19.pdf
+
 # States
 
 ## China
@@ -77,25 +99,3 @@ Then enter your email at the bottom of the page to access the archives.
 ## Venezuela
 
 ![war room](Assets/States/Venezuela.png?raw=true "Venezuela")
-
-# Cyber Troops
-
-## High Capacity
-
-|Country|Status|Notes on Team Size, Training and Spending|
-|:-----------|:-----------|:------------|
-|China| Permanent |Team size estimates of 300,000-2,000,000 people working in local and regional offices|
-|Egypt| Permanent |–|
-|Iran |Permanent |6,000 USD spent on FB advertisements|
-|Israel| Permanent |Team size estimates of 400 people. Evidence of Formal Training. Multiple contracts valued at 778K USD and 100M USD.|
-|Myanmar| Permanent |Evidence of Formal Training in Russia|
-|Russia| Permanent |–|
-|Saudi Arabia| Permanent |Estimated costs of 150 Pounds for Twitter Hashtag Trends|
-|Syria |Permanent |Multiple Contracts valued at 4,000 USD|
-|United Arab Emirates| Permanent |Multiple Expenditures valued at over 10M USD|
-|United States| Permanent & Temporary |–|
-|Venezuela |Permanent |Team size estimates of multiple brigades of 500 people. Evidence of Formal Training|
-|Vietnam |Permanent & Temporary |Team size estimates of 10,000 people |
-
->Source:
->Cyber Troop Report - University of Oxford: https://comprop.oii.ox.ac.uk/wp-content/uploads/sites/93/2019/09/CyberTroop-Report19.pdf
