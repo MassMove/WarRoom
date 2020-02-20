@@ -15,17 +15,6 @@ If the map and the terrain do not match, trust the terrain.
 | Egypt & UAE|    214,898|
 | Iran       |  4,447,056|
 
->Source:
-
->Bird’s eye view of state-backed disinformation operations - a temporal network analysis for the NATO Defense Strategic Communications Journal: 
-
-- https://medium.com/swlh/watch-six-decade-long-disinformation-operations-unfold-in-six-minutes-5f69a7e75fb3
-- https://www.stratcomcoe.org/ckriel-apavliuc-reverse-engineering-russian-internet-research-agency-tactics-through-network
-
->The 2020 Election will be a War of Disinformation with a Billion-Dollar Disinformation Campaign to Reelect the President
-
-- https://www.theatlantic.com/magazine/archive/2020/03/the-2020-disinformation-war/605530/
-
 # Terrain
 
 | Date     | Country  | Msg Info  | Media | Accounts |
@@ -58,11 +47,10 @@ If the map and the terrain do not match, trust the terrain.
 >To access the datasets, visit the Twitter Transparency Report: https://transparency.twitter.com/en/information-operations.html
 Then enter your email at the bottom of the page to access the archives.
 
----
+>Bird’s eye view of state-backed disinformation operations - a temporal network analysis for the NATO Defense Strategic Communications Journal: 
 
-A study from the University of Oxford that found that 70 countries had disinformation campaigns: https://comprop.oii.ox.ac.uk/wp-content/uploads/sites/93/2019/09/CyberTroop-Report19.pdf
-
----
+- https://medium.com/swlh/watch-six-decade-long-disinformation-operations-unfold-in-six-minutes-5f69a7e75fb3
+- https://www.stratcomcoe.org/ckriel-apavliuc-reverse-engineering-russian-internet-research-agency-tactics-through-network
 
 # States
 
@@ -89,3 +77,25 @@ A study from the University of Oxford that found that 70 countries had disinform
 ## Venezuela
 
 ![war room](Assets/States/Venezuela.png?raw=true "Venezuela")
+
+# Cyber Troops
+
+## High Capacity
+
+|Country|Status|Notes on Team Size, Training and Spending|
+|:-----------|:-----------|:------------|
+|China| Permanent |Team size estimates of 300,000-2,000,000 people working in local and regional offices|
+|Egypt| Permanent |–|
+|Iran |Permanent |6,000 USD spent on FB advertisements|
+|Israel| Permanent |Team size estimates of 400 people. Evidence of Formal Training. Multiple contracts valued at 778K USD and 100M USD.|
+|Myanmar| Permanent |Evidence of Formal Training in Russia|
+|Russia| Permanent |–|
+|Saudi Arabia| Permanent |Estimated costs of 150 Pounds for Twitter Hashtag Trends|
+|Syria |Permanent |Multiple Contracts valued at 4,000 USD|
+|United Arab Emirates| Permanent |Multiple Expenditures valued at over 10M USD|
+|United States| Permanent & Temporary |–|
+|Venezuela |Permanent |Team size estimates of multiple brigades of 500 people. Evidence of Formal Training|
+|Vietnam |Permanent & Temporary |Team size estimates of 10,000 people |
+
+>Source:
+>Cyber Troop Report - University of Oxford: https://comprop.oii.ox.ac.uk/wp-content/uploads/sites/93/2019/09/CyberTroop-Report19.pdf
