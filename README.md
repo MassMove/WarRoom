@@ -1,6 +1,6 @@
-# Map
+# World map
 
-![war room](Assets/Map.png?raw=true "Map")
+![war room](Assets/Map.png?raw=true "World Map")
 
 If the map and the terrain do not match, trust the terrain.
 
@@ -15,7 +15,7 @@ If the map and the terrain do not match, trust the terrain.
 | Egypt & UAE|    214,898|
 | Iran       |  4,447,056|
 
-# Terrain
+## Terrain
 
 | Date     | Country  | Msg Info  | Media | Accounts |
 |:-----------|:-----------:|:------------:|:------------:|------------:|
@@ -51,6 +51,12 @@ Then enter your email at the bottom of the page to access the archives.
 
 - https://medium.com/swlh/watch-six-decade-long-disinformation-operations-unfold-in-six-minutes-5f69a7e75fb3
 - https://www.stratcomcoe.org/ckriel-apavliuc-reverse-engineering-russian-internet-research-agency-tactics-through-network
+
+## US 2020 Elections Map
+
+![war room](https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/gmplot.png?raw=true "US 2020 Elections Map")
+
+Based on the local journals that are part of the billion-dollar disinformation campaign to reelect the president in 2020; as dissected in https://github.com/MassMove/AttackVectors
 
 # Cyber Troops
 
