@@ -54,7 +54,7 @@ Then enter your email at the bottom of the page to access the archives.
 
 ## US 2020 Elections Map
 
-![war room](https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/gmplot.png?raw=true "US 2020 Elections Map")
+![war room](https://i.imgur.com/LP3SFEj.png "US 2020 Elections Map")
 
 Based on the local journals that are part of the billion-dollar disinformation campaign to reelect the president in 2020; as dissected in https://github.com/MassMove/AttackVectors
 
