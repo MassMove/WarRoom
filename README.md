@@ -17,35 +17,42 @@ If the map and the terrain do not match, trust the terrain.
 
 ## Terrain
 
-| Date     | Country  | Msg Info  | Media | Accounts |
-|:-----------|:-----------:|:------------:|:------------:|------------:|
-| 201810|Russia   |  1.2 GB|274 GB|3,613|
-| 201810|Iran     | 168 MB | 65.7 GB|770 |
-| 201901|Iran     |  717 MB| 202 GB|2,320|
-| 201901|Bangladesh |2.6 MB|77 MB|15 |
-| 201901|Russia|120 MB|63.7 GB|416 |
-| 201901|Venezuela |1 GB|359 GB|1,196| 
-| 201901|Venezuela |136 MB|81 GB|764 |
-| 201903|UAE |227 MB|680 GB|4,248 |
-| 201904|UAE / Egypt|30 MB|45 GB|271|  
-| 201904|Saudi Arabia|38 KB|357 MB|6 |
-| 201904|Ecuador |85 MB|173 MB|1,019  |
-| 201904|Spain |7 MB|16 GB|259 |
-| 201906|Catalonia |1.5 MB|2.74 GB|130 |
-| 201906|Iran|316 MB|258 GB|1,666 |
-| 201906|Iran|318 MB|183 GB|248 |
-| 201906|Iran|46 MB|55 GB|2,865 |
-| 201906|Russia|260 KB|72 MB|4|
-| 201906|Venezuela |64 MB|24 GB|33 |
-| 201906|China |158 MB|85 GB|744  |
-| 201906|China |169 MB|40 GB|196 |
-| 201906|China |913 MB|604 GB|4,301| 
-| 201910|Saudi Arabia |4.3 GB|1.3 TB|5,929|
+| Date     | Country  | Msg Info  | Media | Accounts |Reports|
+|:-----------|:-----------:|:------------:|:------------:|------------:|:-----:|
+| 201810|Russia   |  1.2 GB|274 GB|3,613||
+| 201810|Iran     | 168 MB | 65.7 GB|770 ||
+| 201901|Iran     |  717 MB| 202 GB|2,320||
+| 201901|Bangladesh |2.6 MB|77 MB|15 ||
+| 201901|Russia|120 MB|63.7 GB|416 ||
+| 201901|Venezuela |1 GB|359 GB|1,196||
+| 201901|Venezuela |136 MB|81 GB|764 ||
+| 201903|UAE |227 MB|680 GB|4,248 ||
+| 201904|UAE / Egypt|30 MB|45 GB|271||
+| 201904|Saudi Arabia|38 KB|357 MB|6 ||
+| 201904|Ecuador |85 MB|173 MB|1,019  ||
+| 201904|Spain |7 MB|16 GB|259 ||
+| 201906|Catalonia |1.5 MB|2.74 GB|130 ||
+| 201906|Iran|316 MB|258 GB|1,666 ||
+| 201906|Iran|318 MB|183 GB|248 ||
+| 201906|Iran|46 MB|55 GB|2,865 ||
+| 201906|Russia|260 KB|72 MB|4||
+| 201906|Venezuela |64 MB|24 GB|33 ||
+| 201906|China |158 MB|85 GB|744  ||
+| 201906|China |169 MB|40 GB|196 ||
+| 201906|China |913 MB|604 GB|4,301||
+| 201910|Saudi Arabia |4.3 GB|1.3 TB|5,929||
+| 202003|Ghana / Nigeria |27 MB|17 GB|71| [CNN](https://edition.cnn.com/2020/03/12/world/russia-ghana-troll-farms-2020-ward/index.html) |
 
 >Source:
 
 >To access the datasets, visit the Twitter Transparency Report: https://transparency.twitter.com/en/information-operations.html
 Then enter your email at the bottom of the page to access the archives.
+
+![Ghana / Nigeria visualization](https://github.com/MassMove/AttackVectors/raw/master/Twitter/datasets/GHA%20or%20NGA/palladio-top1k-tweet-visualization.png?raw=true "Ghana / Nigeria Palladio visualization")
+
+>Source:
+
+https://github.com/MassMove/AttackVectors#twitter
 
 >Bird’s eye view of state-backed disinformation operations - a temporal network analysis for the NATO Defense Strategic Communications Journal: 
 
@@ -56,7 +63,7 @@ Then enter your email at the bottom of the page to access the archives.
 
 ![war room](https://i.imgur.com/LP3SFEj.png "US 2020 Elections Map")
 
-Based on the local journals that are part of the billion-dollar disinformation campaign to reelect the president in 2020; as dissected in https://github.com/MassMove/AttackVectors
+Based on the local journals that are part of the billion-dollar disinformation campaign to reelect the president in 2020; as dissected in https://github.com/MassMove/AttackVectors#local-journalism
 
 # Cyber Troops
 
