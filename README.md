@@ -55,6 +55,10 @@ If the map and the terrain do not match, trust the terrain.
 | 202009|Thailand |2.3 MB|2.9 GB|926 ||
 | 202009|Cuba |666 MB|49.2 GB|526 ||
 | 202009|Saudi Arabia |24 KB|5.8 GB|33 ||
+| 202102|Iran |285.2 MB|32.4 GB|238 ||
+| 202102|Armenia |46.7 KB|1.2 GB|35 ||
+| 202102|Russia GRU |14.3 MB|1.8 GB|69 ||
+| 202102|Russia IRA |36.6 MB|2.6 GB|31 ||
 
 >Source:
 
