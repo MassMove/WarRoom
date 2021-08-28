@@ -44,12 +44,17 @@ If the map and the terrain do not match, trust the terrain.
 | 202002|Egypt |1 GB|575 TB|2,541 ||
 | 202002|Honduras |137 MB|75 GB|2,541 ||
 | 202002|Indonesia |207 MB|78 GB|795 ||
-| 202002|Serbia |5.7 GB|2.3 TB|795 ||
-| 202002|SA / UAE / Egypt |4.2 GB|977 GB|795 ||
+| 202002|Serbia |5.7 GB|2.3 TB|8,558 ||
+| 202002|SA / UAE / Egypt |4.2 GB|977 GB|5,350 ||
 | 202003|Ghana / Nigeria |27 MB|17 GB|71| [CNN](https://edition.cnn.com/2020/03/12/world/russia-ghana-troll-farms-2020-ward/index.html) |
-| 202005|China |73.2 MB|31 GB|795 ||
-| 202005|Turkey |5 GB|821 GB|795 ||
-| 202005|Russia |353 MB|108 GB|795 ||
+| 202005|China |73.2 MB|31 GB|23,750 ||
+| 202005|Turkey |5 GB|821 GB|7,340 ||
+| 202005|Russia |353 MB|108 GB|1,152 ||
+| 202009|Iran |292 KB|16.7 GB|104 ||
+| 202009|Russia |180 KB|10 MB|5 ||
+| 202009|Thailand |2.3 MB|2.9 GB|926 ||
+| 202009|Cuba |666 MB|49.2 GB|526 ||
+| 202009|Saudi Arabia |24 KB|5.8 GB|33 ||
 
 >Source:
 
