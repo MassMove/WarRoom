@@ -41,6 +41,11 @@ If the map and the terrain do not match, trust the terrain.
 | 201906|China |169 MB|40 GB|196 ||
 | 201906|China |913 MB|604 GB|4,301||
 | 201910|Saudi Arabia |4.3 GB|1.3 TB|5,929||
+| 202002|Egypt |1 GB|575 TB|2,541 ||
+| 202002|Honduras |137 MB|75 GB|2,541 ||
+| 202002|Indonesia |207 MB|78 GB|795 ||
+| 202002|Serbia |5.7 GB|2.3 TB|795 ||
+| 202002|SA / UAE / Egypt |4.2 GB|977 GB|795 ||
 | 202003|Ghana / Nigeria |27 MB|17 GB|71| [CNN](https://edition.cnn.com/2020/03/12/world/russia-ghana-troll-farms-2020-ward/index.html) |
 
 >Source:
