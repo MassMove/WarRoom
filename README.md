@@ -19,46 +19,46 @@ If the map and the terrain do not match, trust the terrain.
 
 | Date     | Country  | Msg Info  | Media | Accounts |Reports|
 |:-----------|:-----------:|:------------:|:------------:|------------:|:-----:|
-| 202102|Russia IRA |36.6 MB|2.6 GB|31 ||
-| 202102|Russia GRU |14.3 MB|1.8 GB|69 ||
-| 202102|Armenia |46.7 KB|1.2 GB|35 ||
-| 202102|Iran |285.2 MB|32.4 GB|238 ||
-| 202009|Saudi Arabia |24 KB|5.8 GB|33 ||
-| 202009|Cuba |666 MB|49.2 GB|526 ||
-| 202009|Thailand |2.3 MB|2.9 GB|926 ||
-| 202009|Russia |180 KB|10 MB|5 ||
-| 202009|Iran |292 KB|16.7 GB|104 ||
-| 202005|Russia |353 MB|108 GB|1,152 ||
-| 202005|Turkey |5 GB|821 GB|7,340 ||
-| 202005|China |73.2 MB|31 GB|23,750 ||
-| 202003|Ghana / Nigeria |27 MB|17 GB|71| [CNN](https://edition.cnn.com/2020/03/12/world/russia-ghana-troll-farms-2020-ward/index.html) |
-| 202002|Serbia |5.7 GB|2.3 TB|8,558 ||
-| 202002|SA / UAE / Egypt |4.2 GB|977 GB|5,350 ||
-| 202002|Indonesia |207 MB|78 GB|795 ||
-| 202002|Honduras |137 MB|75 GB|2,541 ||
-| 202002|Egypt |1 GB|575 TB|2,541 ||
-| 201910|Saudi Arabia |4.3 GB|1.3 TB|5,929||
-| 201906|China |913 MB|604 GB|4,301||
-| 201906|China |169 MB|40 GB|196 ||
-| 201906|China |158 MB|85 GB|744  ||
-| 201906|Venezuela |64 MB|24 GB|33 ||
-| 201906|Russia|260 KB|72 MB|4||
-| 201906|Iran|46 MB|55 GB|2,865 ||
-| 201906|Iran|318 MB|183 GB|248 ||
-| 201906|Iran|316 MB|258 GB|1,666 ||
-| 201906|Catalonia |1.5 MB|2.74 GB|130 ||
-| 201904|Spain |7 MB|16 GB|259 ||
-| 201904|Ecuador |85 MB|173 MB|1,019  ||
-| 201904|Saudi Arabia|38 KB|357 MB|6 ||
-| 201904|UAE / Egypt|30 MB|45 GB|271||
-| 201903|UAE |227 MB|680 GB|4,248 ||
-| 201901|Venezuela |136 MB|81 GB|764 ||
-| 201901|Venezuela |1 GB|359 GB|1,196||
-| 201901|Russia|120 MB|63.7 GB|416 ||
-| 201901|Bangladesh |2.6 MB|77 MB|15 ||
-| 201901|Iran     |  717 MB| 202 GB|2,320||
-| 201810|Iran     | 168 MB | 65.7 GB|770 ||
-| 201810|Russia   |  1.2 GB|274 GB|3,613||
+| 2021-02|Russia IRA |36.6 MB|2.6 GB|31 ||
+| 2021-02|Russia GRU |14.3 MB|1.8 GB|69 ||
+| 2021-02|Armenia |46.7 KB|1.2 GB|35 ||
+| 2021-02|Iran |285.2 MB|32.4 GB|238 ||
+| 2020-09|Saudi Arabia |24 KB|5.8 GB|33 ||
+| 2020-09|Cuba |666 MB|49.2 GB|526 ||
+| 2020-09|Thailand |2.3 MB|2.9 GB|926 ||
+| 2020-09|Russia |180 KB|10 MB|5 ||
+| 2020-09|Iran |292 KB|16.7 GB|104 ||
+| 2020-05|Russia |353 MB|108 GB|1,152 ||
+| 2020-05|Turkey |5 GB|821 GB|7,340 ||
+| 2020-05|China |73.2 MB|31 GB|23,750 ||
+| 2020-03|Ghana / Nigeria |27 MB|17 GB|71| [CNN](https://edition.cnn.com/2020/03/12/world/russia-ghana-troll-farms-2020-ward/index.html) |
+| 2020-02|Serbia |5.7 GB|2.3 TB|8,558 ||
+| 2020-02|SA / UAE / Egypt |4.2 GB|977 GB|5,350 ||
+| 2020-02|Indonesia |207 MB|78 GB|795 ||
+| 2020-02|Honduras |137 MB|75 GB|2,541 ||
+| 2020-02|Egypt |1 GB|575 TB|2,541 ||
+| 2019-10|Saudi Arabia |4.3 GB|1.3 TB|5,929||
+| 2019-06|China |913 MB|604 GB|4,301||
+| 2019-06|China |169 MB|40 GB|196 ||
+| 2019-06|China |158 MB|85 GB|744  ||
+| 2019-06|Venezuela |64 MB|24 GB|33 ||
+| 2019-06|Russia|260 KB|72 MB|4||
+| 2019-06|Iran|46 MB|55 GB|2,865 ||
+| 2019-06|Iran|318 MB|183 GB|248 ||
+| 2019-06|Iran|316 MB|258 GB|1,666 ||
+| 2019-06|Catalonia |1.5 MB|2.74 GB|130 ||
+| 2019-04|Spain |7 MB|16 GB|259 ||
+| 2019-04|Ecuador |85 MB|173 MB|1,019  ||
+| 2019-04|Saudi Arabia|38 KB|357 MB|6 ||
+| 2019-04|UAE / Egypt|30 MB|45 GB|271||
+| 2019-03|UAE |227 MB|680 GB|4,248 ||
+| 2019-01|Venezuela |136 MB|81 GB|764 ||
+| 2019-01|Venezuela |1 GB|359 GB|1,196||
+| 2019-01|Russia|120 MB|63.7 GB|416 ||
+| 2019-01|Bangladesh |2.6 MB|77 MB|15 ||
+| 2019-01|Iran     |  717 MB| 202 GB|2,320||
+| 2018-10|Iran     | 168 MB | 65.7 GB|770 ||
+| 2018-10|Russia   |  1.2 GB|274 GB|3,613||
 
 >Source:
 
