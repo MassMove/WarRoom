@@ -6,19 +6,16 @@ If the map and the terrain do not match, trust the terrain.
 
 ## State-Backed Disinformation Operations
 
-| Country    |  Messages |
-|:-----------|----------:|
-| China      | 10,241,545|             
-| Venezuela  | 12,070,658|   
-| Ecuador    |    700,240|
-| Russia     |  8,768,633|
-| Egypt & UAE|    214,898|
-| Iran       |  4,447,056|
-
-## Terrain
-
 | Date     | Country  | Msg Info  | Media | Accounts |Reports|
 |:-----------|:-----------:|:------------:|:------------:|------------:|:-----:|
+| 2021-12|China |2.57 MB|4.61 GB|112 ||
+| 2021-12|China |3.46 MB|2.3 GB|2048 ||
+| 2021-12|Russia IRA |2.48 MB|3.31 GB|16 ||
+| 2021-12|Russia |1.11 MB|1.65 GB|50 ||
+| 2021-12|Tanzania |1.58 MB|(1.81 GB|268 ||
+| 2021-12|Uganda |62.14 MB|19.92 GB|418 ||
+| 2021-12|Venezuela |82.07 MB|20.18 GB|277 ||
+| 2021-12|Mexico |2.49 MB|2.84 GB|276 ||
 | 2021-02|Russia IRA |36.6 MB|2.6 GB|31 ||
 | 2021-02|Russia GRU |14.3 MB|1.8 GB|69 ||
 | 2021-02|Armenia |46.7 KB|1.2 GB|35 ||
